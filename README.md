@@ -32,6 +32,6 @@ The project consists of three parts:
 - **PowerPoint Presentation**: A concise overview of the project's findings and conclusions.
 - **Report**: Detailed documentation providing comprehensive insights into the experimental design, results, and analysis.
 
-Additionally, the data used in this project can be accessed via the following link: [Data Link](postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Globox)
+Additionally, the data used in this project can be accessed via the following link:postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Globox
 
 Feel free to explore the code, presentation, and report to understand the methodology, results, and insights gained from the A/B testing project.
